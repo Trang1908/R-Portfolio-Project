@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, we analyse the 'house-data.csv' dataset to gain valuable insights into the factors that influence house prices. These insights can prove valuable for real estate professionals, home buyers, and sellers.
+In this project, we analyse the **'house-data.csv'** dataset to gain valuable insights into the factors that influence house prices. These insights can prove valuable for real estate professionals, home buyers, and sellers.
 
 # Project Steps
 
